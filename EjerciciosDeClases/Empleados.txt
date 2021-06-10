@@ -1,0 +1,12 @@
+Santiago,Junco,11-11-1997,30000.82
+Agustin,Alvarez,12-12-1976,30120.91
+Joaquin,Leguizamon,10-10-1981,31200
+Fabiana,Romero,08-11-1972,40000.23
+Tamara,Mantilla,22-06-1999,50000
+Delfina,Moreira,15-07-1997,12820.23
+Julieta,Barrios,11-12-1980,31230.85
+Lourdes,Franco,04-03-1994,48900
+Jazmin,Ramirez,11-01-1973,31235.53
+Romina,Fernandez,31-12-1987,334530.12
+Rodrigo,Garcia,19-10-1990,34892.92
+Roberto,Gomez,05-06-1997,50000.83
