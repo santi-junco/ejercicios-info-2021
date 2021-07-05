@@ -1,12 +1,9 @@
 package com.informatorio.ejermplo.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.time.LocalDate;
 
-@Entity
+@MappedSuperclass
 public class Empleado {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
